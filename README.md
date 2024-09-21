@@ -28,6 +28,8 @@ Thus, I have developed ***CodeCollab***, a web solution that allows multiple use
 - [Demo Video]()
 - [GitHub Repository](https://github.com/theshreyaa/Code-Collab)
 - [Website Link]()
+- ![image](https://github.com/user-attachments/assets/964c0fbb-b4f1-4443-a10f-3f1be25d11a0)
+
 
 ### ⚙️ Tech Stack
 - Frontend : ReactJs, Socket IO, Bootstrap
