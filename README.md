@@ -15,7 +15,8 @@ Collaborating on coding projects in real-time can be a challenge, especially whe
 Thus, I have developed ***CodeCollab***, a web solution that allows multiple users to code together in real-time, and you can also run and save the code file, with a chat feature for easy communication and support for multiple languages.
 
 ### 😊 Flowchart
-![image](https://github.com/user-attachments/assets/1c499e55-78b3-4ace-804e-8446f3418d3f)
+![image](https://github.com/user-attachments/assets/5fc0220e-8ee0-435a-9e65-9bf1dece3c97)
+
 
 ### ✨Features
   - Realtime code editing
